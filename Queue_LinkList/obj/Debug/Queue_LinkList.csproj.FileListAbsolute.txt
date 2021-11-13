@@ -1,0 +1,7 @@
+C:\Users\mehmet\source\repos\Queue_LinkList\Queue_LinkList\bin\Debug\Queue_LinkList.exe.config
+C:\Users\mehmet\source\repos\Queue_LinkList\Queue_LinkList\bin\Debug\Queue_LinkList.exe
+C:\Users\mehmet\source\repos\Queue_LinkList\Queue_LinkList\bin\Debug\Queue_LinkList.pdb
+C:\Users\mehmet\source\repos\Queue_LinkList\Queue_LinkList\obj\Debug\Queue_LinkList.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\Queue_LinkList\Queue_LinkList\obj\Debug\Queue_LinkList.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\Queue_LinkList\Queue_LinkList\obj\Debug\Queue_LinkList.exe
+C:\Users\mehmet\source\repos\Queue_LinkList\Queue_LinkList\obj\Debug\Queue_LinkList.pdb
